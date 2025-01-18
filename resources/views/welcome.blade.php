@@ -20,7 +20,7 @@
             <a class="btn text-white bg-warning" href="{{ route('role.list-role') }}">Role</a>
         </div>
         <div class="p-2">
-            <a class="btn text-white bg-success" href="">Lane</a>
+            <a class="btn text-white bg-success" href="{{ route('lane.index') }}">Lane</a>
         </div>
         
     </div>
